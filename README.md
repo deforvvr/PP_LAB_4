@@ -28,6 +28,8 @@ pip install -r requirements.txt
 python main.py
 ```
 
+- Username бота: `@fgh_filmbot`
+
 ## Обработка ошибок
 
 В коде предусмотрена обработка:
