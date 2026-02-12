@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f678967f-df5c-4762-94fe-b31f03bcd982" name="Changes" comment="upd reqs &amp; add handlers (logic of work)">
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="f678967f-df5c-4762-94fe-b31f03bcd982" name="Changes" comment="add main file">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +100,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770904691592</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add main file">
+      <option name="closed" value="true" />
+      <created>1770905051660</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1770905051660</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -119,6 +127,7 @@
     <MESSAGE value="add api info &amp; reqs for it" />
     <MESSAGE value="add data format for bot" />
     <MESSAGE value="upd reqs &amp; add handlers (logic of work)" />
-    <option name="LAST_COMMIT_MESSAGE" value="upd reqs &amp; add handlers (logic of work)" />
+    <MESSAGE value="add main file" />
+    <option name="LAST_COMMIT_MESSAGE" value="add main file" />
   </component>
 </project>
