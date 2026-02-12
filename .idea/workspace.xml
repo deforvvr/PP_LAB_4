@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f678967f-df5c-4762-94fe-b31f03bcd982" name="Changes" comment="add api info &amp; reqs for it">
-      <change afterPath="$PROJECT_DIR$/formatters.py" afterDir="false" />
+    <list default="true" id="f678967f-df5c-4762-94fe-b31f03bcd982" name="Changes" comment="add data format for bot">
+      <change afterPath="$PROJECT_DIR$/handlers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api.py" beforeDir="false" afterPath="$PROJECT_DIR$/api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirments.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirments.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +84,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770902681698</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add data format for bot">
+      <option name="closed" value="true" />
+      <created>1770903084906</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1770903084906</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -99,6 +109,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="create rep first commit" />
     <MESSAGE value="add api info &amp; reqs for it" />
-    <option name="LAST_COMMIT_MESSAGE" value="add api info &amp; reqs for it" />
+    <MESSAGE value="add data format for bot" />
+    <option name="LAST_COMMIT_MESSAGE" value="add data format for bot" />
   </component>
 </project>
